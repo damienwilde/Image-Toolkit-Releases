@@ -3,12 +3,12 @@
     <channel>
         <title>Image Toolkit</title>
         <item>
-            <title>1.7.0</title>
-            <pubDate>Wed, 09 Sep 2026 13:17:21 +0100</pubDate>
-            <sparkle:version>1.7.0</sparkle:version>
-            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <title>1.7.2</title>
+            <pubDate>Tue, 03 Nov 2026 12:51:34 +0000</pubDate>
+            <sparkle:version>1.7.2</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://drive.usercontent.google.com/download?id=17K_mmHCY71I1KktU77B8f1z8CH7HBKVL&amp;export=download" length="11461393" type="application/octet-stream" sparkle:edSignature="lFacMk2LjiX4oqzYUh5HHT/3rVEa/YYpszky0/zccS0ZHiSYikLTJbQYlCIBZpv/q9X5PxxgBE8t1bJorS2rAw=="/>
+            <enclosure url="https://drive.usercontent.google.com/download?id=17K_mmHCY71I1KktU77B8f1z8CH7HBKVL&amp;export=download" length="10593403" type="application/octet-stream" sparkle:edSignature="hxKwQBp3jdJpPpqOKvW0MTNBF+Bv8PFhfj32RQRx2yYoU6deKlj84fUaKKGPoUuDybQgfF/lrb4zVKp8p9f9BQ=="/>
         </item>
     </channel>
 </rss>
